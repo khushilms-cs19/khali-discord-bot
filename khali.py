@@ -5,7 +5,7 @@ from discord import guild
 from discord.ext import commands
 import random
 import asyncpraw
-
+print("Hello sats here");
 import json
 import youtube_dl
 from dotenv import load_dotenv
